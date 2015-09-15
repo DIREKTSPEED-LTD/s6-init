@@ -1,4 +1,0 @@
-#!/bin/bash
-cd /app
-echo "runned nave"
-nave use stable npm start
